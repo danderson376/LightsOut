@@ -1,1 +1,2 @@
 # LightsOut
+Author: David Anderson
